@@ -182,11 +182,7 @@ This project includes:
 
 This project was developed for **educational and academic purposes**.
 
----
 
-# 🙏 Acknowledgement
-
-Special thanks to the faculty and mentors for providing guidance throughout the development of this project. This website was created as part of an academic UI/UX and Front-End Web Development assignment to demonstrate responsive design, reusable components, and modern web development practices.
 
 ---
 
